@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/FlyntDenzel/skillSwap_v1/issues"
   },
-  "homepage": "https://github.com/FlyntDenzel/skillSwap_v1#readme"
+  "homepage": "https://github.com/FlyntDenzel/skillSwap_v1#readme",
+  "dependencies": {
+    "@prisma/client": "^7.4.1",
+    "prisma": "^7.4.1"
+  }
 }
