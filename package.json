@@ -1,7 +1,7 @@
 {
   "name": "skillswap",
   "version": "1.0.0",
-  "description": "",
+  "description": "A peer-to-peer platform for exchanging skills without money in a structured, trustworthy way.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,9 +17,5 @@
   "bugs": {
     "url": "https://github.com/FlyntDenzel/skillSwap_v1/issues"
   },
-  "homepage": "https://github.com/FlyntDenzel/skillSwap_v1#readme",
-  "dependencies": {
-    "@prisma/client": "^7.4.1",
-    "prisma": "^7.4.1"
-  }
+  "homepage": "https://github.com/FlyntDenzel/skillSwap_v1#readme"
 }
